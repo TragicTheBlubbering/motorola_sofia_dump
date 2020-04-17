@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<permissions>
+    <privapp-permissions package="com.motorola.comcastext">
+       <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+       <permission name="android.permission.WRITE_SECURE_SETTINGS"/>
+       <permission name="com.motorola.permission.READ_SUBSIDY_LOCK" />
+       <permission name="com.motorola.permission.SET_SUBSIDY_LOCK" />
+       <permission name="android.permission.MODIFY_PHONE_STATE"/>
+    </privapp-permissions>
+</permissions>
